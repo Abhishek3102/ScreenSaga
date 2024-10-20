@@ -36,7 +36,7 @@
 
 ## Getting Started
 
-To run this project locally, clone the repository, navigate to the project folder, and install the dependencies and most importantly don't forget t generate your tmdb token:
+To run this project locally, clone the repository, navigate to the project folder, and install the dependencies and most importantly don't forget to generate your tmdb token:
 
 ```bash
 cd ScreenSaga
