@@ -18,6 +18,22 @@
 - **React-Icons**: For consistent and modern iconography.
 - **API Integration**: For fetching real-time data about movies and TV shows.
 
+- Here are some snaps of the app:
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ![image](https://github.com/user-attachments/assets/3e18b473-57ac-473b-bd45-255d840e422f)
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ![image](https://github.com/user-attachments/assets/b27b59b2-ed60-4d17-9050-7c758f4544be)
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ![image](https://github.com/user-attachments/assets/43435d8f-2db0-480c-9b68-2ba91ee74b4b)
+
+
+
 ## Getting Started
 
 To run this project locally, clone the repository, navigate to the project folder, and install the dependencies and most importantly don't forget t generate your tmdb token:
