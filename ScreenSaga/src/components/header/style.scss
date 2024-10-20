@@ -27,12 +27,32 @@
         align-items: center;
         justify-content: space-between;
     }
+    // .logo {
+    //     cursor: pointer;
+    //     img {
+    //         height: 70px;
+    //         width : 100px;
+    //     }
+    // }
+
     .logo {
         cursor: pointer;
-        img {
-            height: 50px;
-        }
+        background-color: transparent; 
+        padding: 0;                    
+        margin: 0;                     
+        display: inline-block;          
     }
+    
+    .logo img {
+        height: 70px;
+        width: 130px;
+        background-color: transparent;  
+        display: block;                 
+        border: none;                   
+        object-fit: contain;            
+    }
+    
+
     .menuItems {
         list-style-type: none;
         display: none;

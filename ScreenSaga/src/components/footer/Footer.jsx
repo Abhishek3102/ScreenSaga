@@ -22,26 +22,22 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                    This is a web app which provides details about shows and movies.
                 </div>
                 <div className="socialIcons">
-                    <span className="icon">
+                    {/* Add your social media profile links in the href */}
+                    <a href="https://www.facebook.com/abhipz163" target="_blank" rel="noopener noreferrer" className="icon">
                         <FaFacebookF />
-                    </span>
-                    <span className="icon">
+                    </a>
+                    <a href="https://www.instagram.com/abhishekpandey7344" target="_blank" rel="noopener noreferrer" className="icon">
                         <FaInstagram />
-                    </span>
-                    <span className="icon">
+                    </a>
+                    <a href="https://x.com/ankushpan694" target="_blank" rel="noopener noreferrer" className="icon">
                         <FaTwitter />
-                    </span>
-                    <span className="icon">
+                    </a>
+                    <a href="https://www.linkedin.com/in/abhishek-pandey-05191a300" target="_blank" rel="noopener noreferrer" className="icon">
                         <FaLinkedin />
-                    </span>
+                    </a>
                 </div>
             </ContentWrapper>
         </footer>
